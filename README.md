@@ -16,4 +16,4 @@ Tech I use
 
 Contact me on discord, my DMs are open!
 
-[![](![Static Badge](https://img.shields.io/badge/discord-%235865F2))](discordapp.com/users/827181645672480798)
+[![](https://img.shields.io/badge/discord-%235865F2)](discordapp.com/users/827181645672480798)
