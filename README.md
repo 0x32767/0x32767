@@ -20,7 +20,7 @@
   "favourite_game": "東方永夜抄　～ Imperishable Night",
   "programming-languages": ["python", "HTML5+CSS3", "Javascript"],
   "loves_foss": true,
-  "btc_wallet": "bc1qexs0s7s9jgmr54cdsjlls6wcll4lysf64q5kr4"
+  "btc_wallet": "0xAC40D835149C1B4116717a49E24B435CEeBabE58"
 }
 ```
 
