@@ -13,6 +13,9 @@ It's KoiKoi4, your favorite `further maths` and `computer science` student. I do
 
 My current goals are to complete all **BIO** papers from 2006 to 2025, the repo should be available.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0x32767&theme=github&include_all_commits=true&count_private=true&show_icons=true" height="250">
+</div>
 
 <details>
 <summary>My Programming Hot-Takes</summary>
